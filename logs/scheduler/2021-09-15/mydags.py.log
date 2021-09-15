@@ -1,0 +1,419 @@
+[2021-09-15 15:50:40,550] {scheduler_job.py:181} INFO - Started process (PID=2097) to work on /opt/airflow/dags/mydags.py
+[2021-09-15 15:50:40,552] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/mydags.py for tasks to queue
+[2021-09-15 15:50:40,552] {logging_mixin.py:104} INFO - [2021-09-15 15:50:40,552] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/mydags.py
+[2021-09-15 15:50:41,113] {logging_mixin.py:104} INFO - Every DAG Modules are Fine
+[2021-09-15 15:50:41,116] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/mydags.py
+[2021-09-15 15:50:41,128] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/mydags.py took 0.582 seconds
+[2021-09-15 15:50:44,970] {scheduler_job.py:181} INFO - Started process (PID=2112) to work on /opt/airflow/dags/mydags.py
+[2021-09-15 15:50:44,972] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/mydags.py for tasks to queue
+[2021-09-15 15:50:44,973] {logging_mixin.py:104} INFO - [2021-09-15 15:50:44,973] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/mydags.py
+[2021-09-15 15:50:45,565] {logging_mixin.py:104} INFO - Every DAG Modules are Fine
+[2021-09-15 15:50:45,568] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/mydags.py
+[2021-09-15 15:50:45,579] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/mydags.py took 0.613 seconds
+[2021-09-15 15:51:16,342] {scheduler_job.py:181} INFO - Started process (PID=2189) to work on /opt/airflow/dags/mydags.py
+[2021-09-15 15:51:16,343] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/mydags.py for tasks to queue
+[2021-09-15 15:51:16,344] {logging_mixin.py:104} INFO - [2021-09-15 15:51:16,344] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/mydags.py
+[2021-09-15 15:51:16,930] {logging_mixin.py:104} INFO - Every DAG Modules are Fine
+[2021-09-15 15:51:16,934] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/mydags.py
+[2021-09-15 15:51:16,948] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/mydags.py took 0.610 seconds
+[2021-09-15 15:51:47,665] {scheduler_job.py:181} INFO - Started process (PID=2264) to work on /opt/airflow/dags/mydags.py
+[2021-09-15 15:51:47,666] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/mydags.py for tasks to queue
+[2021-09-15 15:51:47,667] {logging_mixin.py:104} INFO - [2021-09-15 15:51:47,667] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/mydags.py
+[2021-09-15 15:51:48,124] {logging_mixin.py:104} INFO - Every DAG Modules are Fine
+[2021-09-15 15:51:48,127] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/mydags.py
+[2021-09-15 15:51:48,137] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/mydags.py took 0.476 seconds
+[2021-09-15 15:51:49,066] {scheduler_job.py:181} INFO - Started process (PID=2278) to work on /opt/airflow/dags/mydags.py
+[2021-09-15 15:51:49,067] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/mydags.py for tasks to queue
+[2021-09-15 15:51:49,068] {logging_mixin.py:104} INFO - [2021-09-15 15:51:49,068] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/mydags.py
+[2021-09-15 15:51:49,093] {logging_mixin.py:104} INFO - Every DAG Modules are Fine
+[2021-09-15 15:51:49,098] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/mydags.py
+[2021-09-15 15:51:49,114] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/mydags.py took 0.051 seconds
+[2021-09-15 15:51:49,135] {scheduler_job.py:181} INFO - Started process (PID=2280) to work on /opt/airflow/dags/mydags.py
+[2021-09-15 15:51:49,136] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/mydags.py for tasks to queue
+[2021-09-15 15:51:49,137] {logging_mixin.py:104} INFO - [2021-09-15 15:51:49,137] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/mydags.py
+[2021-09-15 15:51:49,159] {logging_mixin.py:104} INFO - Every DAG Modules are Fine
+[2021-09-15 15:51:49,163] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/mydags.py
+[2021-09-15 15:51:49,179] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/mydags.py took 0.047 seconds
+[2021-09-15 15:52:02,863] {scheduler_job.py:181} INFO - Started process (PID=2303) to work on /opt/airflow/dags/mydags.py
+[2021-09-15 15:52:02,864] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/mydags.py for tasks to queue
+[2021-09-15 15:52:02,865] {logging_mixin.py:104} INFO - [2021-09-15 15:52:02,865] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/mydags.py
+[2021-09-15 15:52:02,889] {logging_mixin.py:104} INFO - Every DAG Modules are Fine
+[2021-09-15 15:52:02,892] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/mydags.py
+[2021-09-15 15:52:02,904] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/mydags.py took 0.043 seconds
+[2021-09-15 15:52:33,033] {scheduler_job.py:181} INFO - Started process (PID=2366) to work on /opt/airflow/dags/mydags.py
+[2021-09-15 15:52:33,034] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/mydags.py for tasks to queue
+[2021-09-15 15:52:33,035] {logging_mixin.py:104} INFO - [2021-09-15 15:52:33,035] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/mydags.py
+[2021-09-15 15:52:33,058] {logging_mixin.py:104} INFO - Every DAG Modules are Fine
+[2021-09-15 15:52:33,063] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/mydags.py
+[2021-09-15 15:52:33,080] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/mydags.py took 0.051 seconds
+[2021-09-15 15:53:03,368] {scheduler_job.py:181} INFO - Started process (PID=2419) to work on /opt/airflow/dags/mydags.py
+[2021-09-15 15:53:03,371] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/mydags.py for tasks to queue
+[2021-09-15 15:53:03,372] {logging_mixin.py:104} INFO - [2021-09-15 15:53:03,372] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/mydags.py
+[2021-09-15 15:53:03,394] {logging_mixin.py:104} INFO - Every DAG Modules are Fine
+[2021-09-15 15:53:03,398] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/mydags.py
+[2021-09-15 15:53:03,415] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/mydags.py took 0.050 seconds
+[2021-09-15 15:53:33,597] {scheduler_job.py:181} INFO - Started process (PID=2482) to work on /opt/airflow/dags/mydags.py
+[2021-09-15 15:53:33,598] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/mydags.py for tasks to queue
+[2021-09-15 15:53:33,598] {logging_mixin.py:104} INFO - [2021-09-15 15:53:33,598] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/mydags.py
+[2021-09-15 15:53:33,616] {logging_mixin.py:104} INFO - Every DAG Modules are Fine
+[2021-09-15 15:53:33,620] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/mydags.py
+[2021-09-15 15:53:33,632] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/mydags.py took 0.038 seconds
+[2021-09-15 15:57:43,952] {scheduler_job.py:181} INFO - Started process (PID=26) to work on /opt/airflow/dags/mydags.py
+[2021-09-15 15:57:43,955] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/mydags.py for tasks to queue
+[2021-09-15 15:57:43,956] {logging_mixin.py:104} INFO - [2021-09-15 15:57:43,956] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/mydags.py
+[2021-09-15 15:57:43,993] {logging_mixin.py:104} INFO - Every DAG Modules are Fine
+[2021-09-15 15:57:43,997] {logging_mixin.py:104} INFO - [2021-09-15 15:57:43,993] {dagbag.py:329} ERROR - Failed to import: /opt/airflow/dags/mydags.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 326, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/mydags.py", line 22, in <module>
+    "start_date": datetime(2021, 1, 1),
+NameError: name 'datetime' is not defined
+[2021-09-15 15:57:44,002] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/mydags.py
+[2021-09-15 15:57:44,026] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/mydags.py took 0.078 seconds
+[2021-09-15 15:58:14,986] {scheduler_job.py:181} INFO - Started process (PID=91) to work on /opt/airflow/dags/mydags.py
+[2021-09-15 15:58:14,987] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/mydags.py for tasks to queue
+[2021-09-15 15:58:14,988] {logging_mixin.py:104} INFO - [2021-09-15 15:58:14,988] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/mydags.py
+[2021-09-15 15:58:15,006] {logging_mixin.py:104} INFO - Every DAG Modules are Fine
+[2021-09-15 15:58:15,010] {logging_mixin.py:104} INFO - [2021-09-15 15:58:15,007] {dagbag.py:329} ERROR - Failed to import: /opt/airflow/dags/mydags.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 326, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/mydags.py", line 22, in <module>
+    "start_date": datetime(2021, 1, 1),
+NameError: name 'datetime' is not defined
+[2021-09-15 15:58:15,015] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/mydags.py
+[2021-09-15 15:58:15,038] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/mydags.py took 0.055 seconds
+[2021-09-15 15:58:45,430] {scheduler_job.py:181} INFO - Started process (PID=144) to work on /opt/airflow/dags/mydags.py
+[2021-09-15 15:58:45,432] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/mydags.py for tasks to queue
+[2021-09-15 15:58:45,433] {logging_mixin.py:104} INFO - [2021-09-15 15:58:45,433] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/mydags.py
+[2021-09-15 15:58:45,462] {logging_mixin.py:104} INFO - Every DAG Modules are Fine
+[2021-09-15 15:58:45,467] {logging_mixin.py:104} INFO - [2021-09-15 15:58:45,462] {dagbag.py:329} ERROR - Failed to import: /opt/airflow/dags/mydags.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 326, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/mydags.py", line 22, in <module>
+    "start_date": datetime(2021, 1, 1),
+NameError: name 'datetime' is not defined
+[2021-09-15 15:58:45,471] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/mydags.py
+[2021-09-15 15:58:45,506] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/mydags.py took 0.082 seconds
+[2021-09-15 15:59:01,578] {scheduler_job.py:181} INFO - Started process (PID=197) to work on /opt/airflow/dags/mydags.py
+[2021-09-15 15:59:01,580] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/mydags.py for tasks to queue
+[2021-09-15 15:59:01,588] {logging_mixin.py:104} INFO - [2021-09-15 15:59:01,582] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/mydags.py
+[2021-09-15 15:59:01,620] {logging_mixin.py:104} INFO - Every DAG Modules are Fine
+[2021-09-15 15:59:01,629] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/mydags.py
+[2021-09-15 15:59:06,395] {logging_mixin.py:104} INFO - [2021-09-15 15:59:06,395] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-09-15 15:59:06,416] {logging_mixin.py:104} INFO - [2021-09-15 15:59:06,413] {dag.py:1852} INFO - Creating ORM DAG for first_dag
+[2021-09-15 15:59:06,432] {logging_mixin.py:104} INFO - [2021-09-15 15:59:06,431] {dag.py:2306} INFO - Setting next_dagrun for first_dag to 2021-09-14 00:00:00+00:00
+[2021-09-15 15:59:06,447] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/mydags.py took 4.872 seconds
+[2021-09-15 15:59:32,564] {scheduler_job.py:181} INFO - Started process (PID=26) to work on /opt/airflow/dags/mydags.py
+[2021-09-15 15:59:32,566] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/mydags.py for tasks to queue
+[2021-09-15 15:59:32,567] {logging_mixin.py:104} INFO - [2021-09-15 15:59:32,567] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/mydags.py
+[2021-09-15 15:59:32,602] {logging_mixin.py:104} INFO - Every DAG Modules are Fine
+[2021-09-15 15:59:32,618] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/mydags.py
+[2021-09-15 15:59:32,642] {logging_mixin.py:104} INFO - [2021-09-15 15:59:32,642] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-09-15 15:59:32,668] {logging_mixin.py:104} INFO - [2021-09-15 15:59:32,668] {dag.py:2306} INFO - Setting next_dagrun for first_dag to 2021-09-14 00:00:00+00:00
+[2021-09-15 15:59:32,681] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/mydags.py took 0.122 seconds
+[2021-09-15 16:00:02,938] {scheduler_job.py:181} INFO - Started process (PID=89) to work on /opt/airflow/dags/mydags.py
+[2021-09-15 16:00:02,940] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/mydags.py for tasks to queue
+[2021-09-15 16:00:02,942] {logging_mixin.py:104} INFO - [2021-09-15 16:00:02,942] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/mydags.py
+[2021-09-15 16:00:02,973] {logging_mixin.py:104} INFO - Every DAG Modules are Fine
+[2021-09-15 16:00:02,993] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/mydags.py
+[2021-09-15 16:00:03,030] {logging_mixin.py:104} INFO - [2021-09-15 16:00:03,029] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-09-15 16:00:03,065] {logging_mixin.py:104} INFO - [2021-09-15 16:00:03,065] {dag.py:2306} INFO - Setting next_dagrun for first_dag to 2021-09-14 00:00:00+00:00
+[2021-09-15 16:00:03,077] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/mydags.py took 0.146 seconds
+[2021-09-15 16:00:33,886] {scheduler_job.py:181} INFO - Started process (PID=141) to work on /opt/airflow/dags/mydags.py
+[2021-09-15 16:00:33,888] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/mydags.py for tasks to queue
+[2021-09-15 16:00:33,888] {logging_mixin.py:104} INFO - [2021-09-15 16:00:33,888] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/mydags.py
+[2021-09-15 16:00:33,906] {logging_mixin.py:104} INFO - Every DAG Modules are Fine
+[2021-09-15 16:00:33,917] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/mydags.py
+[2021-09-15 16:00:33,937] {logging_mixin.py:104} INFO - [2021-09-15 16:00:33,937] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-09-15 16:00:33,955] {logging_mixin.py:104} INFO - [2021-09-15 16:00:33,954] {dag.py:2306} INFO - Setting next_dagrun for first_dag to 2021-09-14 00:00:00+00:00
+[2021-09-15 16:00:33,972] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/mydags.py took 0.088 seconds
+[2021-09-15 16:01:04,007] {scheduler_job.py:181} INFO - Started process (PID=206) to work on /opt/airflow/dags/mydags.py
+[2021-09-15 16:01:04,008] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/mydags.py for tasks to queue
+[2021-09-15 16:01:04,009] {logging_mixin.py:104} INFO - [2021-09-15 16:01:04,009] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/mydags.py
+[2021-09-15 16:01:04,024] {logging_mixin.py:104} INFO - Every DAG Modules are Fine
+[2021-09-15 16:01:04,034] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/mydags.py
+[2021-09-15 16:01:04,052] {logging_mixin.py:104} INFO - [2021-09-15 16:01:04,052] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-09-15 16:01:04,068] {logging_mixin.py:104} INFO - [2021-09-15 16:01:04,068] {dag.py:2306} INFO - Setting next_dagrun for first_dag to 2021-09-15 00:00:00+00:00
+[2021-09-15 16:01:04,077] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/mydags.py took 0.072 seconds
+[2021-09-15 16:01:34,219] {scheduler_job.py:181} INFO - Started process (PID=260) to work on /opt/airflow/dags/mydags.py
+[2021-09-15 16:01:34,220] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/mydags.py for tasks to queue
+[2021-09-15 16:01:34,221] {logging_mixin.py:104} INFO - [2021-09-15 16:01:34,221] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/mydags.py
+[2021-09-15 16:01:34,241] {logging_mixin.py:104} INFO - Every DAG Modules are Fine
+[2021-09-15 16:01:34,251] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/mydags.py
+[2021-09-15 16:01:34,270] {logging_mixin.py:104} INFO - [2021-09-15 16:01:34,270] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-09-15 16:01:34,286] {logging_mixin.py:104} INFO - [2021-09-15 16:01:34,286] {dag.py:2306} INFO - Setting next_dagrun for first_dag to 2021-09-15 00:00:00+00:00
+[2021-09-15 16:01:34,298] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/mydags.py took 0.083 seconds
+[2021-09-15 16:02:04,670] {scheduler_job.py:181} INFO - Started process (PID=324) to work on /opt/airflow/dags/mydags.py
+[2021-09-15 16:02:04,672] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/mydags.py for tasks to queue
+[2021-09-15 16:02:04,673] {logging_mixin.py:104} INFO - [2021-09-15 16:02:04,672] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/mydags.py
+[2021-09-15 16:02:04,688] {logging_mixin.py:104} INFO - Every DAG Modules are Fine
+[2021-09-15 16:02:04,698] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/mydags.py
+[2021-09-15 16:02:04,718] {logging_mixin.py:104} INFO - [2021-09-15 16:02:04,718] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-09-15 16:02:04,734] {logging_mixin.py:104} INFO - [2021-09-15 16:02:04,734] {dag.py:2306} INFO - Setting next_dagrun for first_dag to 2021-09-15 00:00:00+00:00
+[2021-09-15 16:02:04,745] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/mydags.py took 0.078 seconds
+[2021-09-15 16:02:35,109] {scheduler_job.py:181} INFO - Started process (PID=388) to work on /opt/airflow/dags/mydags.py
+[2021-09-15 16:02:35,110] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/mydags.py for tasks to queue
+[2021-09-15 16:02:35,111] {logging_mixin.py:104} INFO - [2021-09-15 16:02:35,111] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/mydags.py
+[2021-09-15 16:02:35,133] {logging_mixin.py:104} INFO - Every DAG Modules are Fine
+[2021-09-15 16:02:35,145] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/mydags.py
+[2021-09-15 16:02:35,168] {logging_mixin.py:104} INFO - [2021-09-15 16:02:35,168] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-09-15 16:02:35,191] {logging_mixin.py:104} INFO - [2021-09-15 16:02:35,191] {dag.py:2306} INFO - Setting next_dagrun for first_dag to 2021-09-15 00:00:00+00:00
+[2021-09-15 16:02:35,212] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/mydags.py took 0.107 seconds
+[2021-09-15 16:03:05,308] {scheduler_job.py:181} INFO - Started process (PID=440) to work on /opt/airflow/dags/mydags.py
+[2021-09-15 16:03:05,309] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/mydags.py for tasks to queue
+[2021-09-15 16:03:05,311] {logging_mixin.py:104} INFO - [2021-09-15 16:03:05,310] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/mydags.py
+[2021-09-15 16:03:05,328] {logging_mixin.py:104} INFO - Every DAG Modules are Fine
+[2021-09-15 16:03:05,338] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/mydags.py
+[2021-09-15 16:03:05,356] {logging_mixin.py:104} INFO - [2021-09-15 16:03:05,356] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-09-15 16:03:05,372] {logging_mixin.py:104} INFO - [2021-09-15 16:03:05,372] {dag.py:2306} INFO - Setting next_dagrun for first_dag to 2021-09-15 00:00:00+00:00
+[2021-09-15 16:03:05,392] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/mydags.py took 0.087 seconds
+[2021-09-15 16:03:35,576] {scheduler_job.py:181} INFO - Started process (PID=503) to work on /opt/airflow/dags/mydags.py
+[2021-09-15 16:03:35,578] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/mydags.py for tasks to queue
+[2021-09-15 16:03:35,580] {logging_mixin.py:104} INFO - [2021-09-15 16:03:35,580] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/mydags.py
+[2021-09-15 16:03:35,606] {logging_mixin.py:104} INFO - Every DAG Modules are Fine
+[2021-09-15 16:03:35,621] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/mydags.py
+[2021-09-15 16:03:35,652] {logging_mixin.py:104} INFO - [2021-09-15 16:03:35,651] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-09-15 16:03:35,684] {logging_mixin.py:104} INFO - [2021-09-15 16:03:35,683] {dag.py:2306} INFO - Setting next_dagrun for first_dag to 2021-09-15 00:00:00+00:00
+[2021-09-15 16:03:35,713] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/mydags.py took 0.141 seconds
+[2021-09-15 16:04:06,071] {scheduler_job.py:181} INFO - Started process (PID=555) to work on /opt/airflow/dags/mydags.py
+[2021-09-15 16:04:06,072] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/mydags.py for tasks to queue
+[2021-09-15 16:04:06,073] {logging_mixin.py:104} INFO - [2021-09-15 16:04:06,073] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/mydags.py
+[2021-09-15 16:04:06,089] {logging_mixin.py:104} INFO - Every DAG Modules are Fine
+[2021-09-15 16:04:06,099] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/mydags.py
+[2021-09-15 16:04:06,117] {logging_mixin.py:104} INFO - [2021-09-15 16:04:06,117] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-09-15 16:04:06,135] {logging_mixin.py:104} INFO - [2021-09-15 16:04:06,135] {dag.py:2306} INFO - Setting next_dagrun for first_dag to 2021-09-15 00:00:00+00:00
+[2021-09-15 16:04:06,145] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/mydags.py took 0.076 seconds
+[2021-09-15 16:04:37,068] {scheduler_job.py:181} INFO - Started process (PID=617) to work on /opt/airflow/dags/mydags.py
+[2021-09-15 16:04:37,070] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/mydags.py for tasks to queue
+[2021-09-15 16:04:37,071] {logging_mixin.py:104} INFO - [2021-09-15 16:04:37,071] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/mydags.py
+[2021-09-15 16:04:37,090] {logging_mixin.py:104} INFO - Every DAG Modules are Fine
+[2021-09-15 16:04:37,103] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/mydags.py
+[2021-09-15 16:04:37,125] {logging_mixin.py:104} INFO - [2021-09-15 16:04:37,125] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-09-15 16:04:37,145] {logging_mixin.py:104} INFO - [2021-09-15 16:04:37,144] {dag.py:2306} INFO - Setting next_dagrun for first_dag to 2021-09-15 00:00:00+00:00
+[2021-09-15 16:04:37,154] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/mydags.py took 0.089 seconds
+[2021-09-15 16:05:07,421] {scheduler_job.py:181} INFO - Started process (PID=671) to work on /opt/airflow/dags/mydags.py
+[2021-09-15 16:05:07,422] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/mydags.py for tasks to queue
+[2021-09-15 16:05:07,423] {logging_mixin.py:104} INFO - [2021-09-15 16:05:07,423] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/mydags.py
+[2021-09-15 16:05:07,448] {logging_mixin.py:104} INFO - Every DAG Modules are Fine
+[2021-09-15 16:05:07,459] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/mydags.py
+[2021-09-15 16:05:07,479] {logging_mixin.py:104} INFO - [2021-09-15 16:05:07,479] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-09-15 16:05:07,499] {logging_mixin.py:104} INFO - [2021-09-15 16:05:07,499] {dag.py:2306} INFO - Setting next_dagrun for first_dag to 2021-09-15 00:00:00+00:00
+[2021-09-15 16:05:07,520] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/mydags.py took 0.102 seconds
+[2021-09-15 16:05:37,889] {scheduler_job.py:181} INFO - Started process (PID=734) to work on /opt/airflow/dags/mydags.py
+[2021-09-15 16:05:37,890] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/mydags.py for tasks to queue
+[2021-09-15 16:05:37,891] {logging_mixin.py:104} INFO - [2021-09-15 16:05:37,891] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/mydags.py
+[2021-09-15 16:05:37,909] {logging_mixin.py:104} INFO - Every DAG Modules are Fine
+[2021-09-15 16:05:37,919] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/mydags.py
+[2021-09-15 16:05:37,939] {logging_mixin.py:104} INFO - [2021-09-15 16:05:37,939] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-09-15 16:05:37,956] {logging_mixin.py:104} INFO - [2021-09-15 16:05:37,956] {dag.py:2306} INFO - Setting next_dagrun for first_dag to 2021-09-15 00:00:00+00:00
+[2021-09-15 16:05:37,966] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/mydags.py took 0.080 seconds
+[2021-09-15 16:06:08,207] {scheduler_job.py:181} INFO - Started process (PID=798) to work on /opt/airflow/dags/mydags.py
+[2021-09-15 16:06:08,208] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/mydags.py for tasks to queue
+[2021-09-15 16:06:08,209] {logging_mixin.py:104} INFO - [2021-09-15 16:06:08,209] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/mydags.py
+[2021-09-15 16:06:08,225] {logging_mixin.py:104} INFO - Every DAG Modules are Fine
+[2021-09-15 16:06:08,235] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/mydags.py
+[2021-09-15 16:06:08,253] {logging_mixin.py:104} INFO - [2021-09-15 16:06:08,253] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-09-15 16:06:08,271] {logging_mixin.py:104} INFO - [2021-09-15 16:06:08,271] {dag.py:2306} INFO - Setting next_dagrun for first_dag to 2021-09-15 00:00:00+00:00
+[2021-09-15 16:06:08,280] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/mydags.py took 0.075 seconds
+[2021-09-15 16:06:38,460] {scheduler_job.py:181} INFO - Started process (PID=851) to work on /opt/airflow/dags/mydags.py
+[2021-09-15 16:06:38,461] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/mydags.py for tasks to queue
+[2021-09-15 16:06:38,462] {logging_mixin.py:104} INFO - [2021-09-15 16:06:38,462] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/mydags.py
+[2021-09-15 16:06:38,477] {logging_mixin.py:104} INFO - Every DAG Modules are Fine
+[2021-09-15 16:06:38,486] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/mydags.py
+[2021-09-15 16:06:38,507] {logging_mixin.py:104} INFO - [2021-09-15 16:06:38,507] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-09-15 16:06:38,523] {logging_mixin.py:104} INFO - [2021-09-15 16:06:38,523] {dag.py:2306} INFO - Setting next_dagrun for first_dag to 2021-09-15 00:00:00+00:00
+[2021-09-15 16:06:38,533] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/mydags.py took 0.077 seconds
+[2021-09-15 16:07:08,729] {scheduler_job.py:181} INFO - Started process (PID=914) to work on /opt/airflow/dags/mydags.py
+[2021-09-15 16:07:08,730] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/mydags.py for tasks to queue
+[2021-09-15 16:07:08,731] {logging_mixin.py:104} INFO - [2021-09-15 16:07:08,731] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/mydags.py
+[2021-09-15 16:07:08,747] {logging_mixin.py:104} INFO - Every DAG Modules are Fine
+[2021-09-15 16:07:08,758] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/mydags.py
+[2021-09-15 16:07:08,780] {logging_mixin.py:104} INFO - [2021-09-15 16:07:08,780] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-09-15 16:07:08,796] {logging_mixin.py:104} INFO - [2021-09-15 16:07:08,795] {dag.py:2306} INFO - Setting next_dagrun for first_dag to 2021-09-15 00:00:00+00:00
+[2021-09-15 16:07:08,804] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/mydags.py took 0.078 seconds
+[2021-09-15 16:07:38,954] {scheduler_job.py:181} INFO - Started process (PID=968) to work on /opt/airflow/dags/mydags.py
+[2021-09-15 16:07:38,956] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/mydags.py for tasks to queue
+[2021-09-15 16:07:38,957] {logging_mixin.py:104} INFO - [2021-09-15 16:07:38,957] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/mydags.py
+[2021-09-15 16:07:38,974] {logging_mixin.py:104} INFO - Every DAG Modules are Fine
+[2021-09-15 16:07:38,983] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/mydags.py
+[2021-09-15 16:07:39,005] {logging_mixin.py:104} INFO - [2021-09-15 16:07:39,005] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-09-15 16:07:39,021] {logging_mixin.py:104} INFO - [2021-09-15 16:07:39,021] {dag.py:2306} INFO - Setting next_dagrun for first_dag to 2021-09-15 00:00:00+00:00
+[2021-09-15 16:07:39,031] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/mydags.py took 0.080 seconds
+[2021-09-15 16:11:21,657] {scheduler_job.py:181} INFO - Started process (PID=26) to work on /opt/airflow/dags/mydags.py
+[2021-09-15 16:11:21,659] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/mydags.py for tasks to queue
+[2021-09-15 16:11:21,661] {logging_mixin.py:104} INFO - [2021-09-15 16:11:21,661] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/mydags.py
+[2021-09-15 16:11:23,627] {logging_mixin.py:104} INFO - Every DAG Modules are Fine
+[2021-09-15 16:11:23,635] {logging_mixin.py:104} INFO - [2021-09-15 16:11:23,630] {dagbag.py:329} ERROR - Failed to import: /opt/airflow/dags/mydags.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 326, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/mydags.py", line 51, in <module>
+    first_function_execute >> second_function_execute
+NameError: name 'first_function_execute' is not defined
+[2021-09-15 16:11:23,640] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/mydags.py
+[2021-09-15 16:11:23,659] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/mydags.py took 2.006 seconds
+[2021-09-15 16:11:53,785] {scheduler_job.py:181} INFO - Started process (PID=105) to work on /opt/airflow/dags/mydags.py
+[2021-09-15 16:11:53,787] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/mydags.py for tasks to queue
+[2021-09-15 16:11:53,789] {logging_mixin.py:104} INFO - [2021-09-15 16:11:53,789] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/mydags.py
+[2021-09-15 16:11:54,396] {logging_mixin.py:104} INFO - Every DAG Modules are Fine
+[2021-09-15 16:11:54,404] {logging_mixin.py:104} INFO - [2021-09-15 16:11:54,399] {dagbag.py:329} ERROR - Failed to import: /opt/airflow/dags/mydags.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 326, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/mydags.py", line 51, in <module>
+    first_function_execute >> second_function_execute
+NameError: name 'first_function_execute' is not defined
+[2021-09-15 16:11:54,407] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/mydags.py
+[2021-09-15 16:11:54,429] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/mydags.py took 0.647 seconds
+[2021-09-15 16:12:24,490] {scheduler_job.py:181} INFO - Started process (PID=176) to work on /opt/airflow/dags/mydags.py
+[2021-09-15 16:12:24,492] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/mydags.py for tasks to queue
+[2021-09-15 16:12:24,492] {logging_mixin.py:104} INFO - [2021-09-15 16:12:24,492] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/mydags.py
+[2021-09-15 16:12:25,021] {logging_mixin.py:104} INFO - Every DAG Modules are Fine
+[2021-09-15 16:12:25,027] {logging_mixin.py:104} INFO - [2021-09-15 16:12:25,022] {dagbag.py:329} ERROR - Failed to import: /opt/airflow/dags/mydags.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 326, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/mydags.py", line 51, in <module>
+    first_function_execute >> second_function_execute
+NameError: name 'first_function_execute' is not defined
+[2021-09-15 16:12:25,031] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/mydags.py
+[2021-09-15 16:12:25,044] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/mydags.py took 0.558 seconds
+[2021-09-15 16:12:55,128] {scheduler_job.py:181} INFO - Started process (PID=253) to work on /opt/airflow/dags/mydags.py
+[2021-09-15 16:12:55,130] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/mydags.py for tasks to queue
+[2021-09-15 16:12:55,131] {logging_mixin.py:104} INFO - [2021-09-15 16:12:55,131] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/mydags.py
+[2021-09-15 16:12:55,612] {logging_mixin.py:104} INFO - Every DAG Modules are Fine
+[2021-09-15 16:12:55,618] {logging_mixin.py:104} INFO - [2021-09-15 16:12:55,613] {dagbag.py:329} ERROR - Failed to import: /opt/airflow/dags/mydags.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 326, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/mydags.py", line 51, in <module>
+    first_function_execute >> second_function_execute
+NameError: name 'first_function_execute' is not defined
+[2021-09-15 16:12:55,622] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/mydags.py
+[2021-09-15 16:12:55,636] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/mydags.py took 0.512 seconds
+[2021-09-15 16:13:25,735] {scheduler_job.py:181} INFO - Started process (PID=326) to work on /opt/airflow/dags/mydags.py
+[2021-09-15 16:13:25,737] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/mydags.py for tasks to queue
+[2021-09-15 16:13:25,738] {logging_mixin.py:104} INFO - [2021-09-15 16:13:25,738] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/mydags.py
+[2021-09-15 16:13:26,502] {logging_mixin.py:104} INFO - Every DAG Modules are Fine
+[2021-09-15 16:13:26,509] {logging_mixin.py:104} INFO - [2021-09-15 16:13:26,504] {dagbag.py:329} ERROR - Failed to import: /opt/airflow/dags/mydags.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 326, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/mydags.py", line 51, in <module>
+    first_function_execute >> second_function_execute
+NameError: name 'first_function_execute' is not defined
+[2021-09-15 16:13:26,513] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/mydags.py
+[2021-09-15 16:13:26,527] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/mydags.py took 0.796 seconds
+[2021-09-15 16:13:57,401] {scheduler_job.py:181} INFO - Started process (PID=392) to work on /opt/airflow/dags/mydags.py
+[2021-09-15 16:13:57,402] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/mydags.py for tasks to queue
+[2021-09-15 16:13:57,403] {logging_mixin.py:104} INFO - [2021-09-15 16:13:57,403] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/mydags.py
+[2021-09-15 16:13:58,053] {logging_mixin.py:104} INFO - Every DAG Modules are Fine
+[2021-09-15 16:13:58,061] {logging_mixin.py:104} INFO - [2021-09-15 16:13:58,056] {dagbag.py:329} ERROR - Failed to import: /opt/airflow/dags/mydags.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 326, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/mydags.py", line 51, in <module>
+    first_function_execute >> second_function_execute
+NameError: name 'first_function_execute' is not defined
+[2021-09-15 16:13:58,065] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/mydags.py
+[2021-09-15 16:13:58,081] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/mydags.py took 0.684 seconds
+[2021-09-15 16:14:28,165] {scheduler_job.py:181} INFO - Started process (PID=468) to work on /opt/airflow/dags/mydags.py
+[2021-09-15 16:14:28,166] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/mydags.py for tasks to queue
+[2021-09-15 16:14:28,167] {logging_mixin.py:104} INFO - [2021-09-15 16:14:28,167] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/mydags.py
+[2021-09-15 16:14:28,785] {logging_mixin.py:104} INFO - Every DAG Modules are Fine
+[2021-09-15 16:14:28,792] {logging_mixin.py:104} INFO - [2021-09-15 16:14:28,788] {dagbag.py:329} ERROR - Failed to import: /opt/airflow/dags/mydags.py
+Traceback (most recent call last):
+  File "/home/airflow/.local/lib/python3.6/site-packages/airflow/models/dagbag.py", line 326, in _load_modules_from_file
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 678, in exec_module
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/opt/airflow/dags/mydags.py", line 51, in <module>
+    first_function_execute >> second_function_execute
+NameError: name 'first_function_execute' is not defined
+[2021-09-15 16:14:28,796] {scheduler_job.py:644} WARNING - No viable dags retrieved from /opt/airflow/dags/mydags.py
+[2021-09-15 16:14:28,814] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/mydags.py took 0.653 seconds
+[2021-09-15 16:14:46,536] {scheduler_job.py:181} INFO - Started process (PID=501) to work on /opt/airflow/dags/mydags.py
+[2021-09-15 16:14:46,537] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/mydags.py for tasks to queue
+[2021-09-15 16:14:46,538] {logging_mixin.py:104} INFO - [2021-09-15 16:14:46,538] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/mydags.py
+[2021-09-15 16:14:47,140] {logging_mixin.py:104} INFO - Every DAG Modules are Fine
+[2021-09-15 16:14:47,152] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/mydags.py
+[2021-09-15 16:14:47,382] {logging_mixin.py:104} INFO - [2021-09-15 16:14:47,381] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-09-15 16:14:47,401] {logging_mixin.py:104} INFO - [2021-09-15 16:14:47,401] {dag.py:2306} INFO - Setting next_dagrun for first_dag to 2021-09-15 00:00:00+00:00
+[2021-09-15 16:14:47,418] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/mydags.py took 0.885 seconds
+[2021-09-15 16:15:14,322] {scheduler_job.py:181} INFO - Started process (PID=25) to work on /opt/airflow/dags/mydags.py
+[2021-09-15 16:15:14,324] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/mydags.py for tasks to queue
+[2021-09-15 16:15:14,326] {logging_mixin.py:104} INFO - [2021-09-15 16:15:14,325] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/mydags.py
+[2021-09-15 16:15:16,459] {logging_mixin.py:104} INFO - Every DAG Modules are Fine
+[2021-09-15 16:15:16,474] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/mydags.py
+[2021-09-15 16:15:16,492] {logging_mixin.py:104} INFO - [2021-09-15 16:15:16,492] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-09-15 16:15:16,523] {logging_mixin.py:104} INFO - [2021-09-15 16:15:16,523] {dag.py:2306} INFO - Setting next_dagrun for first_dag to 2021-09-15 00:00:00+00:00
+[2021-09-15 16:15:16,537] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/mydags.py took 2.223 seconds
+[2021-09-15 16:15:46,635] {scheduler_job.py:181} INFO - Started process (PID=107) to work on /opt/airflow/dags/mydags.py
+[2021-09-15 16:15:46,636] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/mydags.py for tasks to queue
+[2021-09-15 16:15:46,637] {logging_mixin.py:104} INFO - [2021-09-15 16:15:46,637] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/mydags.py
+[2021-09-15 16:15:47,225] {logging_mixin.py:104} INFO - Every DAG Modules are Fine
+[2021-09-15 16:15:47,234] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/mydags.py
+[2021-09-15 16:15:47,253] {logging_mixin.py:104} INFO - [2021-09-15 16:15:47,253] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-09-15 16:15:47,270] {logging_mixin.py:104} INFO - [2021-09-15 16:15:47,270] {dag.py:2306} INFO - Setting next_dagrun for first_dag to 2021-09-15 00:00:00+00:00
+[2021-09-15 16:15:47,280] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/mydags.py took 0.648 seconds
+[2021-09-15 16:16:17,936] {scheduler_job.py:181} INFO - Started process (PID=170) to work on /opt/airflow/dags/mydags.py
+[2021-09-15 16:16:17,938] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/mydags.py for tasks to queue
+[2021-09-15 16:16:17,939] {logging_mixin.py:104} INFO - [2021-09-15 16:16:17,939] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/mydags.py
+[2021-09-15 16:16:18,518] {logging_mixin.py:104} INFO - Every DAG Modules are Fine
+[2021-09-15 16:16:18,530] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/mydags.py
+[2021-09-15 16:16:18,548] {logging_mixin.py:104} INFO - [2021-09-15 16:16:18,548] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-09-15 16:16:18,574] {logging_mixin.py:104} INFO - [2021-09-15 16:16:18,574] {dag.py:2306} INFO - Setting next_dagrun for first_dag to 2021-09-15 00:00:00+00:00
+[2021-09-15 16:16:18,588] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/mydags.py took 0.656 seconds
+[2021-09-15 16:16:48,620] {scheduler_job.py:181} INFO - Started process (PID=245) to work on /opt/airflow/dags/mydags.py
+[2021-09-15 16:16:48,621] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/mydags.py for tasks to queue
+[2021-09-15 16:16:48,622] {logging_mixin.py:104} INFO - [2021-09-15 16:16:48,621] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/mydags.py
+[2021-09-15 16:16:49,285] {logging_mixin.py:104} INFO - Every DAG Modules are Fine
+[2021-09-15 16:16:49,301] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/mydags.py
+[2021-09-15 16:16:49,337] {logging_mixin.py:104} INFO - [2021-09-15 16:16:49,337] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-09-15 16:16:49,374] {logging_mixin.py:104} INFO - [2021-09-15 16:16:49,374] {dag.py:2306} INFO - Setting next_dagrun for first_dag to 2021-09-15 00:00:00+00:00
+[2021-09-15 16:16:49,395] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/mydags.py took 0.778 seconds
+[2021-09-15 16:17:19,570] {scheduler_job.py:181} INFO - Started process (PID=322) to work on /opt/airflow/dags/mydags.py
+[2021-09-15 16:17:19,571] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/mydags.py for tasks to queue
+[2021-09-15 16:17:19,572] {logging_mixin.py:104} INFO - [2021-09-15 16:17:19,571] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/mydags.py
+[2021-09-15 16:17:20,058] {logging_mixin.py:104} INFO - Every DAG Modules are Fine
+[2021-09-15 16:17:20,067] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/mydags.py
+[2021-09-15 16:17:20,082] {logging_mixin.py:104} INFO - [2021-09-15 16:17:20,082] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-09-15 16:17:20,097] {logging_mixin.py:104} INFO - [2021-09-15 16:17:20,097] {dag.py:2306} INFO - Setting next_dagrun for first_dag to 2021-09-15 00:00:00+00:00
+[2021-09-15 16:17:20,106] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/mydags.py took 0.539 seconds
+[2021-09-15 16:17:50,149] {scheduler_job.py:181} INFO - Started process (PID=389) to work on /opt/airflow/dags/mydags.py
+[2021-09-15 16:17:50,151] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/mydags.py for tasks to queue
+[2021-09-15 16:17:50,152] {logging_mixin.py:104} INFO - [2021-09-15 16:17:50,152] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/mydags.py
+[2021-09-15 16:17:50,773] {logging_mixin.py:104} INFO - Every DAG Modules are Fine
+[2021-09-15 16:17:50,782] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/mydags.py
+[2021-09-15 16:17:50,800] {logging_mixin.py:104} INFO - [2021-09-15 16:17:50,799] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-09-15 16:17:50,814] {logging_mixin.py:104} INFO - [2021-09-15 16:17:50,814] {dag.py:2306} INFO - Setting next_dagrun for first_dag to 2021-09-15 00:00:00+00:00
+[2021-09-15 16:17:50,824] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/mydags.py took 0.679 seconds
+[2021-09-15 16:18:21,766] {scheduler_job.py:181} INFO - Started process (PID=464) to work on /opt/airflow/dags/mydags.py
+[2021-09-15 16:18:21,771] {scheduler_job.py:632} INFO - Processing file /opt/airflow/dags/mydags.py for tasks to queue
+[2021-09-15 16:18:21,773] {logging_mixin.py:104} INFO - [2021-09-15 16:18:21,773] {dagbag.py:496} INFO - Filling up the DagBag from /opt/airflow/dags/mydags.py
+[2021-09-15 16:18:22,483] {logging_mixin.py:104} INFO - Every DAG Modules are Fine
+[2021-09-15 16:18:22,495] {scheduler_job.py:642} INFO - DAG(s) dict_keys(['first_dag']) retrieved from /opt/airflow/dags/mydags.py
+[2021-09-15 16:18:22,523] {logging_mixin.py:104} INFO - [2021-09-15 16:18:22,522] {dag.py:1833} INFO - Sync 1 DAGs
+[2021-09-15 16:18:22,550] {logging_mixin.py:104} INFO - [2021-09-15 16:18:22,550] {dag.py:2306} INFO - Setting next_dagrun for first_dag to 2021-09-15 00:00:00+00:00
+[2021-09-15 16:18:22,561] {scheduler_job.py:189} INFO - Processing /opt/airflow/dags/mydags.py took 0.801 seconds

@@ -1,0 +1,28 @@
+[2021-09-15 16:16:46,710] {taskinstance.py:896} INFO - Dependencies all met for <TaskInstance: first_dag.second_function_execute 2021-09-15T16:16:43.424824+00:00 [queued]>
+[2021-09-15 16:16:46,719] {taskinstance.py:896} INFO - Dependencies all met for <TaskInstance: first_dag.second_function_execute 2021-09-15T16:16:43.424824+00:00 [queued]>
+[2021-09-15 16:16:46,719] {taskinstance.py:1087} INFO - 
+--------------------------------------------------------------------------------
+[2021-09-15 16:16:46,719] {taskinstance.py:1088} INFO - Starting attempt 1 of 2
+[2021-09-15 16:16:46,720] {taskinstance.py:1089} INFO - 
+--------------------------------------------------------------------------------
+[2021-09-15 16:16:46,732] {taskinstance.py:1107} INFO - Executing <Task(PythonOperator): second_function_execute> on 2021-09-15T16:16:43.424824+00:00
+[2021-09-15 16:16:46,735] {standard_task_runner.py:52} INFO - Started process 207 to run task
+[2021-09-15 16:16:46,739] {standard_task_runner.py:76} INFO - Running: ['***', 'tasks', 'run', 'first_dag', 'second_function_execute', '2021-09-15T16:16:43.424824+00:00', '--job-id', '8', '--pool', 'default_pool', '--raw', '--subdir', 'DAGS_FOLDER/mydags.py', '--cfg-path', '/tmp/tmpo19hmyyu', '--error-file', '/tmp/tmpowvb1a2p']
+[2021-09-15 16:16:46,739] {standard_task_runner.py:77} INFO - Job 8: Subtask second_function_execute
+[2021-09-15 16:16:46,778] {logging_mixin.py:104} INFO - Running <TaskInstance: first_dag.second_function_execute 2021-09-15T16:16:43.424824+00:00 [running]> on host 51ebd8399503
+[2021-09-15 16:16:46,823] {taskinstance.py:1302} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=***
+AIRFLOW_CTX_DAG_ID=first_dag
+AIRFLOW_CTX_TASK_ID=second_function_execute
+AIRFLOW_CTX_EXECUTION_DATE=2021-09-15T16:16:43.424824+00:00
+AIRFLOW_CTX_DAG_RUN_ID=manual__2021-09-15T16:16:43.424824+00:00
+[2021-09-15 16:16:46,836] {logging_mixin.py:104} INFO - @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[2021-09-15 16:16:46,857] {logging_mixin.py:104} INFO -       name           title
+0  MisterH   Data Engineer
+1    MissB  Data Scientist
+[2021-09-15 16:16:46,858] {logging_mixin.py:104} INFO - @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+[2021-09-15 16:16:46,858] {logging_mixin.py:104} INFO - I am in second_function_execute got value :first_func_test_execute Hello World from Function 1
+[2021-09-15 16:16:46,859] {python.py:151} INFO - Done. Returned value was: None
+[2021-09-15 16:16:46,868] {taskinstance.py:1211} INFO - Marking task as SUCCESS. dag_id=first_dag, task_id=second_function_execute, execution_date=20210915T161643, start_date=20210915T161646, end_date=20210915T161646
+[2021-09-15 16:16:46,891] {taskinstance.py:1265} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2021-09-15 16:16:46,910] {local_task_job.py:149} INFO - Task exited with return code 0
